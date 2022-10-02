@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @darkwebdev2
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate 
 
 <!---
